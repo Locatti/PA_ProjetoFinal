@@ -1,0 +1,11 @@
+C:\Users\Familia\Desktop\P.A\Windows Forms\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+C:\Users\Familia\Desktop\P.A\Windows Forms\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\Familia\Desktop\P.A\Windows Forms\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\Familia\Desktop\P.A\Windows Forms\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.csprojResolveAssemblyReference.cache
+C:\Users\Familia\Desktop\P.A\Windows Forms\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Form1.resources
+C:\Users\Familia\Desktop\P.A\Windows Forms\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Form2.resources
+C:\Users\Familia\Desktop\P.A\Windows Forms\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Form3.resources
+C:\Users\Familia\Desktop\P.A\Windows Forms\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\Familia\Desktop\P.A\Windows Forms\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.csproj.GenerateResource.Cache
+C:\Users\Familia\Desktop\P.A\Windows Forms\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.exe
+C:\Users\Familia\Desktop\P.A\Windows Forms\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.pdb
